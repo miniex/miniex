@@ -1,4 +1,8 @@
-## Hi there 👋
+### Han Damin - miniex
+
+<img align="right" width="30%" alt="side_sticker" src="https://media.giphy.com/media/aRIzrvb4qN5t0X5cRz/giphy.gif" />
+
+Personal blog : https://blog.handamin.com
 
 <!--
 **miniex/miniex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
