@@ -3,7 +3,9 @@
 <img align="right" width="20%" alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnByM2JoZjFwcmlsbGlrNDU5NG1nNnFpNjJzZWpvdms4NnVqN2c0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ssslp7vWSFBdK/giphy.webp" />
 
 Personal Blog : https://miniex.blog
+
 About Me : https://miniex.info
+
 Contact : 
 
 <!--
