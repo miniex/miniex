@@ -5,7 +5,7 @@
 <div>
 Personal Blog : https://miniex.blog<br />
 About Me : https://miniex.info<br />
-Contact : 
+Contact : miniex@daminstudio.net
 </div>
 
 <br />
