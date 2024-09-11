@@ -1,6 +1,6 @@
 ### Han Damin - miniex
 
-<img align="right" width="30%" alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnByM2JoZjFwcmlsbGlrNDU5NG1nNnFpNjJzZWpvdms4NnVqN2c0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ssslp7vWSFBdK/giphy.webp" />
+<img align="right" width="30%" alt="side_sticker" src="https://i.pinimg.com/originals/da/6f/b0/da6fb012ecce2e7ee7797ee864b3206a.gif" />
 
 <div>
 Personal Blog : https://miniex.blog<br />
