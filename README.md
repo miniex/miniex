@@ -2,13 +2,14 @@
 
 <img align="right" width="30%" alt="side_sticker" src="https://i.pinimg.com/originals/da/6f/b0/da6fb012ecce2e7ee7797ee864b3206a.gif" />
 
-<div>
-Personal Blog : https://miniex.blog<br />
-About Me : https://miniex.info<br />
-Contact : miniex@daminstudio.net
-</div>
+Personal Blog : [miniex.blog](https://miniex.blog)  
+About Me : [miniex.info](https://miniex.info)  
+Contact : [miniex@daminstudio.net](mailto:miniex@daminstudio.net)
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&hide_progress=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
