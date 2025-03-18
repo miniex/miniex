@@ -6,8 +6,8 @@ Personal Blog : [miniex.blog](https://miniex.blog)
 About Me : [miniex.info](https://miniex.info)  
 Contact : [miniex@daminstudio.net](mailto:miniex@daminstudio.net)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&hide_progress=true&title_color=f5a9d0&text_color=ffd1dc&bg_color=3a3a3a&border_color=f5a9d0)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&hide_progress=true&title_color=f08bb9&text_color=f8b4d9&bg_color=ffffff&border_color=f8b4d9)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&title_color=f5a9d0&text_color=ffd1dc&bg_color=3a3a3a&border_color=f5a9d0)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&title_color=f08bb9&text_color=f8b4d9&bg_color=ffffff&border_color=f8b4d9)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&title_color=f5a9d0&text_color=ffd1dc&icon_color=f5a9d0&bg_color=3a3a3a&border_color=f5a9d0)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&title_color=f08bb9&text_color=f8b4d9&icon_color=f08bb9&bg_color=ffffff&border_color=f8b4d9)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
