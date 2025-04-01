@@ -11,6 +11,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f8b4d9?style=for-the-badge)](https://miniex.info)
 [![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-ffd1dc?style=for-the-badge&logo=gmail)](mailto:miniex@daminstudio.net)
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/miniex)
+
 </div>
 
 <div align="center">
