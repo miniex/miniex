@@ -1,7 +1,9 @@
+<!--
 <div align="center">
   <h1>✨ Han Damin ✨</h1>
   <img width="250" alt="profile_gif" src="https://i.pinimg.com/originals/da/6f/b0/da6fb012ecce2e7ee7797ee864b3206a.gif" />
 </div>
+-->
 
 <h2 align="center">🌸 Contact Me 🌸</h2>
 
