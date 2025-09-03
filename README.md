@@ -5,16 +5,6 @@
 </div>
 -->
 
-<h2 align="center">🌸 Contact Me 🌸</h2>
-
-<div align="center" style="text-decoration: none;">
-  
-[![Blog](https://img.shields.io/badge/Blog-miniex.blog-f5a9d0?style=for-the-badge)](https://miniex.blog)
-[![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f8b4d9?style=for-the-badge)](https://miniex.info)
-[![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-ffd1dc?style=for-the-badge&logo=gmail)](mailto:miniex@daminstudio.net)
-
-</div>
-
 <div align="center">
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&theme=omni&title_color=f5a9d0&text_color=ffd1dc&bg_color=3a3a3a&border_color=f5a9d0&hide_border=true&langs_count=8&card_width=445#gh-dark-mode-only)](https://github.com/miniex#gh-dark-mode-only)
@@ -22,6 +12,16 @@
   
 [![Stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&theme=omni&title_color=f5a9d0&text_color=ffd1dc&icon_color=f5a9d0&bg_color=3a3a3a&border_color=f5a9d0&hide_border=true&include_all_commits=true&count_private=true&line_height=28&grade=true#gh-dark-mode-only)](https://github.com/miniex#gh-dark-mode-only)
 [![Stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&title_color=f08bb9&text_color=f8b4d9&icon_color=f08bb9&bg_color=ffffff&border_color=f8b4d9&hide_border=true&include_all_commits=true&count_private=true&line_height=28&grade=true#gh-light-mode-only)](https://github.com/miniex#gh-light-mode-only)
+
+</div>
+
+<h2 align="center">🌸 Contact Me 🌸</h2>
+
+<div align="center" style="text-decoration: none;">
+  
+[![Blog](https://img.shields.io/badge/Blog-miniex.blog-f5a9d0?style=for-the-badge)](https://miniex.blog)
+[![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f8b4d9?style=for-the-badge)](https://miniex.info)
+[![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-ffd1dc?style=for-the-badge&logo=gmail)](mailto:miniex@daminstudio.net)
 
 </div>
 
