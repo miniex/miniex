@@ -9,11 +9,9 @@
 
 <div align="center">
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&theme=omni&title_color=f5a9d0&text_color=ffd1dc&bg_color=3a3a3a&border_color=f5a9d0&hide_border=true&langs_count=8&card_width=445#gh-dark-mode-only)](https://github.com/miniex#gh-dark-mode-only)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&title_color=f08bb9&text_color=f8b4d9&bg_color=ffffff&border_color=f8b4d9&hide_border=true&langs_count=8&card_width=445#gh-light-mode-only)](https://github.com/miniex#gh-light-mode-only)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&title_color=ffc9e3&text_color=ffb3d9&bg_color=4a3a45&border_color=ffc9e3&border_radius=15&langs_count=8&card_width=445)](https://github.com/miniex)
   
-[![Stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&theme=omni&title_color=f5a9d0&text_color=ffd1dc&icon_color=f5a9d0&bg_color=3a3a3a&border_color=f5a9d0&hide_border=true&include_all_commits=true&count_private=true&line_height=28&grade=true#gh-dark-mode-only)](https://github.com/miniex#gh-dark-mode-only)
-[![Stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&title_color=f08bb9&text_color=f8b4d9&icon_color=f08bb9&bg_color=ffffff&border_color=f8b4d9&hide_border=true&include_all_commits=true&count_private=true&line_height=28&grade=true#gh-light-mode-only)](https://github.com/miniex#gh-light-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&title_color=ffc9e3&text_color=ffb3d9&icon_color=f5a9d0&bg_color=4a3a45&border_color=ffc9e3&border_radius=15&include_all_commits=true&count_private=true&line_height=28)](https://github.com/miniex)
 
 </div>
 
