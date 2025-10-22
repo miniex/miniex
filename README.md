@@ -21,9 +21,9 @@
 
 <div align="center" style="text-decoration: none;">
   
-[![Blog](https://img.shields.io/badge/Blog-miniex.blog-f5a9d0?style=for-the-badge)](https://miniex.blog)
-[![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f8b4d9?style=for-the-badge)](https://miniex.info)
-[![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-ffd1dc?style=for-the-badge&logo=gmail)](mailto:miniex@daminstudio.net)
+[![Blog](https://img.shields.io/badge/Blog-miniex.blog-f5a9d0?style=flat&labelColor=ffd1dc)](https://miniex.blog)
+[![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f8b4d9?style=flat&labelColor=ffd1dc)](https://miniex.info)
+[![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-ffd1dc?style=flat&logo=gmail&logoColor=white)](mailto:miniex@daminstudio.net)
 
 </div>
 
