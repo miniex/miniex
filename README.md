@@ -19,9 +19,9 @@
 
 <div align="center" style="text-decoration: none;">
   
-[![Blog](https://img.shields.io/badge/Blog-miniex.blog-f5a9d0?style=flat&labelColor=ffd1dc)](https://miniex.blog)
-[![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f8b4d9?style=flat&labelColor=ffd1dc)](https://miniex.info)
-[![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-ffd1dc?style=flat&logo=gmail&logoColor=white)](mailto:miniex@daminstudio.net)
+[![Blog](https://img.shields.io/badge/Blog-miniex.blog-f5a9d0?style=flat&labelColor=ffd1dc&logo=substack&logoColor=white)](https://miniex.blog)
+[![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f5a9d0?style=flat&labelColor=ffd1dc&logo=readme&logoColor=white)](https://miniex.info)
+[![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-f5a9d0?style=flat&labelColor=ffd1dc&logo=maildotru&logoColor=white)](mailto:miniex@daminstudio.net)
 
 </div>
 
