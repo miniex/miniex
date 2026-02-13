@@ -9,9 +9,11 @@
 
 <div align="center">
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&title_color=ffc9e3&text_color=ffb3d9&bg_color=4a3a45&border_color=ffc9e3&border_radius=15&langs_count=8&card_width=445)](https://github.com/miniex)
-  
-[![Stats](https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&title_color=ffc9e3&text_color=ffb3d9&icon_color=f5a9d0&bg_color=4a3a45&border_color=ffc9e3&border_radius=15&include_all_commits=true&count_private=true&line_height=28)](https://github.com/miniex)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg" />
+    <img src="./github-metrics-dark.svg" />
+</picture>
 
 </div>
 
