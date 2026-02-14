@@ -1,7 +1,11 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 21 * * *"
+    - cron: "0 9 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -20,14 +24,37 @@ jobs:
           filename: github-metrics-dark.svg
 
           extras_css: |
-            * { color: #ffb3d9 !important; }
-            h1, h2, h3 { color: #ffc9e3 !important; }
-            svg.large { background-color: #4a3a45; border-radius: 15px; }
-            .field .name { color: #ffc9e3 !important; }
-            .field .value { color: #ffb3d9 !important; }
-            section svg { fill: #f5a9d0 !important; }
-            .bar { border-radius: 5px; }
-            .lang { color: #ffb3d9 !important; }
+            @keyframes fadeIn {
+              from { opacity: 0; transform: translateY(6px); }
+              to { opacity: 1; transform: translateY(0); }
+            }
+            * { color: #f0d0e0 !important; }
+            h2 {
+              color: #ffc8e0 !important;
+              font-weight: 600 !important;
+              letter-spacing: 0.5px !important;
+            }
+            svg.large {
+              background-color: #1e1425;
+              border-radius: 20px;
+            }
+            section {
+              animation: fadeIn 0.6s ease-out both;
+            }
+            section:nth-child(1) { animation-delay: 0s; }
+            section:nth-child(2) { animation-delay: 0.12s; }
+            section:nth-child(3) { animation-delay: 0.24s; }
+            .field .name {
+              color: #c9a0b8 !important;
+              font-weight: 400 !important;
+            }
+            .field .value {
+              color: #ffb8d4 !important;
+              font-weight: 600 !important;
+            }
+            section svg { fill: #f0a0c0 !important; }
+            .bar { border-radius: 6px !important; }
+            .lang { color: #d4b0c8 !important; }
 
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -44,14 +71,38 @@ jobs:
           filename: github-metrics-light.svg
 
           extras_css: |
-            * { color: #d4607a !important; }
-            h1, h2, h3 { color: #f5a9d0 !important; }
-            svg.large { background-color: #fff5f8; border-radius: 15px; border: 1px solid #ffd1dc; }
-            .field .name { color: #f5a9d0 !important; }
-            .field .value { color: #d4607a !important; }
-            section svg { fill: #f5a9d0 !important; }
-            .bar { border-radius: 5px; }
-            .lang { color: #d4607a !important; }
+            @keyframes fadeIn {
+              from { opacity: 0; transform: translateY(6px); }
+              to { opacity: 1; transform: translateY(0); }
+            }
+            * { color: #8b3a5e !important; }
+            h2 {
+              color: #c85a80 !important;
+              font-weight: 600 !important;
+              letter-spacing: 0.5px !important;
+            }
+            svg.large {
+              background-color: #fef8fa;
+              border-radius: 20px;
+              border: 1px solid #f5dce6;
+            }
+            section {
+              animation: fadeIn 0.6s ease-out both;
+            }
+            section:nth-child(1) { animation-delay: 0s; }
+            section:nth-child(2) { animation-delay: 0.12s; }
+            section:nth-child(3) { animation-delay: 0.24s; }
+            .field .name {
+              color: #b06080 !important;
+              font-weight: 400 !important;
+            }
+            .field .value {
+              color: #a04868 !important;
+              font-weight: 600 !important;
+            }
+            section svg { fill: #e890b0 !important; }
+            .bar { border-radius: 6px !important; }
+            .lang { color: #9e5878 !important; }
 
           plugin_languages: yes
           plugin_languages_limit: 8
