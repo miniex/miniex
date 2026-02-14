@@ -73,7 +73,7 @@ section svg { fill: #e890b0 !important; }
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -100,7 +100,7 @@ section svg { fill: #e890b0 !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            944 Commits
+                            947 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -211,14 +211,14 @@ section svg { fill: #e890b0 !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.45334653369815" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="280.45334653369815" y="0" width="75.06884308380938" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="355.52218961750754" y="0" width="44.923267635648955" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="400.4454572531565" y="0" width="41.9458993045687" height="8" fill="#8f14e9"/>
-                    <rect mask="url(#languages-bar)" x="442.3913565577252" y="0" width="7.213573757562855" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.6049303152881" y="0" width="5.788962138794705" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.3938924540828" y="0" width="2.9753783131569813" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.3692707672398" y="0" width="1.6307292327602572" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.4395599785907" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="280.4395599785907" y="0" width="75.0651528417252" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="355.5047128203159" y="0" width="44.921059292933414" height="8" fill="#3A4E3A"/>
+                    <rect mask="url(#languages-bar)" x="400.4257721132493" y="0" width="41.943837323638746" height="8" fill="#8f14e9"/>
+                    <rect mask="url(#languages-bar)" x="442.369609436888" y="0" width="7.213219151945344" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.58282858883337" y="0" width="5.788677564384992" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.3715061532184" y="0" width="2.997844777580548" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.36935093079893" y="0" width="1.63064906920111" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
