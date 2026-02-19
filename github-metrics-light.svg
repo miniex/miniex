@@ -54,7 +54,7 @@ section svg { fill: #e890b0 !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 53 users
+                            Followed by 52 users
                         </div>
                     </section>
                     <section>
@@ -74,7 +74,7 @@ section svg { fill: #e890b0 !important; }
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -100,7 +100,7 @@ section svg { fill: #e890b0 !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            995 Commits
+                            1005 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -211,14 +211,14 @@ section svg { fill: #e890b0 !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.4536649554722" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="278.4536649554722" y="0" width="73.57761786985012" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="352.03128282532236" y="0" width="44.03087730911989" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="396.06216013444225" y="0" width="41.112653711648946" height="8" fill="#8f14e9"/>
-                    <rect mask="url(#languages-bar)" x="437.1748138460912" y="0" width="7.702412782857508" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.8772266289487" y="0" width="7.070277782453406" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="451.9475044114021" y="0" width="4.974509400561992" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.9220138119641" y="0" width="3.07798618803591" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.50298746287655" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="278.50298746287655" y="0" width="73.24980111935999" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="351.7527885822366" y="0" width="43.83470271773481" height="8" fill="#3A4E3A"/>
+                    <rect mask="url(#languages-bar)" x="395.58749129997136" y="0" width="40.92948093528074" height="8" fill="#8f14e9"/>
+                    <rect mask="url(#languages-bar)" x="436.5169722352521" y="0" width="8.427632199181758" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.9446044344339" y="0" width="7.03877695985534" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="451.9833813942892" y="0" width="4.9523460368355465" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.93572743112475" y="0" width="3.0642725688752535" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -230,7 +230,7 @@ section svg { fill: #e890b0 !important; }
                                 Rust
                             </div>
                             <small>
-                                <div>60.53%</div>
+                                <div>60.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -241,7 +241,7 @@ section svg { fill: #e890b0 !important; }
                                 Cuda
                             </div>
                             <small>
-                                <div>9.57%</div>
+                                <div>9.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -252,7 +252,7 @@ section svg { fill: #e890b0 !important; }
                                 HTML
                             </div>
                             <small>
-                                <div>1.67%</div>
+                                <div>1.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -276,7 +276,7 @@ section svg { fill: #e890b0 !important; }
                                 C
                             </div>
                             <small>
-                                <div>16%</div>
+                                <div>15.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -287,7 +287,7 @@ section svg { fill: #e890b0 !important; }
                                 Metal
                             </div>
                             <small>
-                                <div>8.94%</div>
+                                <div>8.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -298,7 +298,7 @@ section svg { fill: #e890b0 !important; }
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.54%</div>
+                                <div>1.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
