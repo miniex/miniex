@@ -1,0 +1,165 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1000 360"
+  width="1000"
+  height="360"
+  font-family="'Georgia', 'Times New Roman', serif"
+>
+  <defs>
+    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5" />
+      <feOffset dx="0" dy="4" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.18" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="gCream" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4F0EC" />
+      <stop offset="100%" stop-color="#D6D0CB" />
+    </linearGradient>
+    <linearGradient id="gLavender" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B4B6CB" />
+      <stop offset="100%" stop-color="#8C8EA6" />
+    </linearGradient>
+    <linearGradient id="gSky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#AEC0DC" />
+      <stop offset="100%" stop-color="#8298BC" />
+    </linearGradient>
+    <linearGradient id="gNavy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#787A87" />
+      <stop offset="100%" stop-color="#4D4F5C" />
+    </linearGradient>
+
+    <style>
+      .title {
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: 8px;
+        fill: #626471;
+      }
+      .sub {
+        font-size: 13px;
+        font-style: italic;
+        letter-spacing: 2px;
+        fill: #a0a2b9;
+      }
+      .name {
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 2.5px;
+        fill: #626471;
+      }
+      .hex {
+        font-size: 12px;
+        letter-spacing: 1.5px;
+        fill: #a0a2b9;
+        font-family: "Consolas", "Menlo", "Courier New", monospace;
+      }
+      .rule {
+        stroke: #c9d2e2;
+        stroke-width: 1;
+      }
+      .dot {
+        fill: #98abcc;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .title {
+          fill: #e8e3df;
+        }
+        .sub {
+          fill: #98abcc;
+        }
+        .name {
+          fill: #e8e3df;
+        }
+        .hex {
+          fill: #98abcc;
+        }
+        .rule {
+          stroke: #626471;
+        }
+        .dot {
+          fill: #98abcc;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Title block -->
+  <text x="500" y="58" text-anchor="middle" class="title">COLOR PALETTE</text>
+  <text x="500" y="86" text-anchor="middle" class="sub">
+    a soft winter palette from my character
+  </text>
+
+  <!-- Decorative divider -->
+  <line x1="370" y1="108" x2="490" y2="108" class="rule" />
+  <circle cx="500" cy="108" r="3" class="dot" />
+  <line x1="510" y1="108" x2="630" y2="108" class="rule" />
+
+  <!-- Diamonds row -->
+  <g transform="translate(160, 210)">
+    <rect
+      x="-50"
+      y="-50"
+      width="100"
+      height="100"
+      rx="10"
+      fill="url(#gCream)"
+      transform="rotate(45)"
+      filter="url(#softShadow)"
+    />
+  </g>
+  <text x="160" y="305" text-anchor="middle" class="name">MIST</text>
+  <text x="160" y="328" text-anchor="middle" class="hex">#E8E3DF</text>
+
+  <g transform="translate(390, 210)">
+    <rect
+      x="-50"
+      y="-50"
+      width="100"
+      height="100"
+      rx="10"
+      fill="url(#gLavender)"
+      transform="rotate(45)"
+      filter="url(#softShadow)"
+    />
+  </g>
+  <text x="390" y="305" text-anchor="middle" class="name">DUSTY LAVENDER</text>
+  <text x="390" y="328" text-anchor="middle" class="hex">#A0A2B9</text>
+
+  <g transform="translate(610, 210)">
+    <rect
+      x="-50"
+      y="-50"
+      width="100"
+      height="100"
+      rx="10"
+      fill="url(#gSky)"
+      transform="rotate(45)"
+      filter="url(#softShadow)"
+    />
+  </g>
+  <text x="610" y="305" text-anchor="middle" class="name">SKY BLUE</text>
+  <text x="610" y="328" text-anchor="middle" class="hex">#98ABCC</text>
+
+  <g transform="translate(840, 210)">
+    <rect
+      x="-50"
+      y="-50"
+      width="100"
+      height="100"
+      rx="10"
+      fill="url(#gNavy)"
+      transform="rotate(45)"
+      filter="url(#softShadow)"
+    />
+  </g>
+  <text x="840" y="305" text-anchor="middle" class="name">SLATE</text>
+  <text x="840" y="328" text-anchor="middle" class="hex">#626471</text>
+</svg>
