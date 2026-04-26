@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/miniex">
+    <picture>
         <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&duration=4000&pause=1500&color=E890B0&center=true&vCenter=true&width=700&height=60&lines=Until+the+day+I+render+the+entire+world+in+code...;I+am+an+artist.+%F0%9F%8E%A8" alt="Typing SVG" />
-    </a>
+    </picture>
 </p>
 
 <p align="center">
