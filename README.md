@@ -61,11 +61,15 @@
 </p>
 
 <p align="center">
-    <img src="./assets/palette.svg" alt="Color Palette" width="800" />
+    <picture>
+        <img src="./assets/palette.svg" alt="Color Palette" width="800" />
+    </picture>
 </p>
 
 <p align="center">
-    <img src="./assets/favorite-color.svg" alt="Favorite Color" width="800" />
+    <picture>
+        <img src="./assets/favorite-color.svg" alt="Favorite Color" width="800" />
+    </picture>
 </p>
 
 <h2 align="center">🌸 Contact Me 🌸</h2>
