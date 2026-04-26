@@ -1,8 +1,8 @@
-<h1 align="center">
+<p align="center">
     <picture>
         <img src="./assets/name.svg" alt="Han Damin · 한다민 · 韓多旻" width="800" />
     </picture>
-</h1>
+</p>
 
 <p align="center">
     <picture>
@@ -72,11 +72,11 @@
     </picture>
 </p>
 
-<h1 align="center">
+<p align="center">
     <picture>
         <img src="./assets/contact-heading.svg" alt="Contact Me" width="800" />
     </picture>
-</h1>
+</p>
 
 <p align="center">
     <a href="https://miniex.blog">

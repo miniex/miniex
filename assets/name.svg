@@ -1,8 +1,8 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 1000 240"
+  viewBox="0 0 1000 200"
   width="1000"
-  height="240"
+  height="200"
   font-family="'Georgia', 'Times New Roman', serif"
 >
   <defs>
@@ -50,12 +50,10 @@
     </style>
   </defs>
 
-  <!-- Name -->
-  <text x="500" y="100" text-anchor="middle" class="nname">HAN DAMIN</text>
+  <text x="500" y="70" text-anchor="middle" class="nname">HAN DAMIN</text>
 
-  <!-- Divider with sakura ornament -->
-  <line x1="340" y1="140" x2="475" y2="140" class="nrule" />
-  <g transform="translate(500, 140)">
+  <line x1="340" y1="115" x2="475" y2="115" class="nrule" />
+  <g transform="translate(500, 115)">
     <ellipse cx="0" cy="-7" rx="3.5" ry="6" class="npetal" />
     <ellipse
       cx="0"
@@ -91,8 +89,7 @@
     />
     <circle cx="0" cy="0" r="2.2" class="ncenter" />
   </g>
-  <line x1="525" y1="140" x2="660" y2="140" class="nrule" />
+  <line x1="525" y1="115" x2="660" y2="115" class="nrule" />
 
-  <!-- Korean / Chinese -->
-  <text x="500" y="195" text-anchor="middle" class="nsub">한다민 · 韓多旻</text>
+  <text x="500" y="165" text-anchor="middle" class="nsub">한다민 · 韓多旻</text>
 </svg>
