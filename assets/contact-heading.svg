@@ -1,8 +1,8 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 1000 160"
+  viewBox="0 0 1000 130"
   width="1000"
-  height="160"
+  height="130"
   font-family="'Georgia', 'Times New Roman', serif"
 >
   <defs>
@@ -50,13 +50,13 @@
     </style>
   </defs>
 
-  <text x="500" y="58" text-anchor="middle" class="ctitle">CONTACT ME</text>
-  <text x="500" y="86" text-anchor="middle" class="csub">
+  <text x="500" y="42" text-anchor="middle" class="ctitle">CONTACT ME</text>
+  <text x="500" y="68" text-anchor="middle" class="csub">
     let's stay in touch
   </text>
 
-  <line x1="370" y1="118" x2="488" y2="118" class="crule" />
-  <g transform="translate(500, 118)">
+  <line x1="370" y1="100" x2="488" y2="100" class="crule" />
+  <g transform="translate(500, 100)">
     <ellipse cx="0" cy="-5" rx="2.5" ry="4.2" class="cpetal" />
     <ellipse
       cx="0"
@@ -92,5 +92,5 @@
     />
     <circle cx="0" cy="0" r="1.6" class="ccenter" />
   </g>
-  <line x1="512" y1="118" x2="630" y2="118" class="crule" />
+  <line x1="512" y1="100" x2="630" y2="100" class="crule" />
 </svg>
