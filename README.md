@@ -74,10 +74,18 @@
 
 <h2 align="center">🌸 Contact Me 🌸</h2>
 
-<div align="center">
+<p align="center"><i>let's stay in touch</i></p>
 
-[![Blog](https://img.shields.io/badge/Blog-miniex.blog-f5a9d0?style=flat&labelColor=ffd1dc&logo=substack&logoColor=white)](https://miniex.blog)
-[![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f5a9d0?style=flat&labelColor=ffd1dc&logo=readme&logoColor=white)](https://miniex.info)
-[![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-f5a9d0?style=flat&labelColor=ffd1dc&logo=maildotru&logoColor=white)](mailto:miniex@daminstudio.net)
-
-</div>
+<p align="center">
+    <a href="https://miniex.blog">
+        <img src="https://img.shields.io/badge/Blog-miniex.blog-E890B0?style=for-the-badge&labelColor=C85A80&logo=substack&logoColor=white" alt="Blog" />
+    </a>
+    &nbsp;
+    <a href="https://miniex.info">
+        <img src="https://img.shields.io/badge/Portfolio-miniex.info-E890B0?style=for-the-badge&labelColor=C85A80&logo=readme&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="mailto:miniex@daminstudio.net">
+        <img src="https://img.shields.io/badge/Email-miniex@daminstudio.net-E890B0?style=for-the-badge&labelColor=C85A80&logo=maildotru&logoColor=white" alt="Email" />
+    </a>
+</p>
