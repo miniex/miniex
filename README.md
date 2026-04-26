@@ -60,6 +60,14 @@
     </picture>
 </p>
 
+<p align="center">
+    <img src="./assets/palette.svg" alt="Color Palette" width="800" />
+</p>
+
+<p align="center">
+    <img src="./assets/favorite-color.svg" alt="Favorite Color" width="800" />
+</p>
+
 <h2 align="center">🌸 Contact Me 🌸</h2>
 
 <div align="center">

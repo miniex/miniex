@@ -1,0 +1,108 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1000 360"
+  width="1000"
+  height="360"
+  font-family="'Georgia', 'Times New Roman', serif"
+>
+  <defs>
+    <filter id="softShadowF" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5" />
+      <feOffset dx="0" dy="4" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.18" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="gSakura" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8B5CD" />
+      <stop offset="100%" stop-color="#D87596" />
+    </linearGradient>
+
+    <style>
+      .ftitle {
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: 8px;
+        fill: #c85a80;
+      }
+      .fsub {
+        font-size: 13px;
+        font-style: italic;
+        letter-spacing: 2px;
+        fill: #e890b0;
+      }
+      .fname {
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 2.5px;
+        fill: #c85a80;
+      }
+      .fhex {
+        font-size: 12px;
+        letter-spacing: 1.5px;
+        fill: #e890b0;
+        font-family: "Consolas", "Menlo", "Courier New", monospace;
+      }
+      .frule {
+        stroke: #f5c8d8;
+        stroke-width: 1;
+      }
+      .fdot {
+        fill: #e890b0;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .ftitle {
+          fill: #ffc8e0;
+        }
+        .fsub {
+          fill: #ffb8d4;
+        }
+        .fname {
+          fill: #ffc8e0;
+        }
+        .fhex {
+          fill: #ffb8d4;
+        }
+        .frule {
+          stroke: #8b3a5e;
+        }
+        .fdot {
+          fill: #ffb8d4;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Title block -->
+  <text x="500" y="58" text-anchor="middle" class="ftitle">FAVORITE COLOR</text>
+  <text x="500" y="86" text-anchor="middle" class="fsub">
+    the shade i always come back to
+  </text>
+
+  <!-- Decorative divider -->
+  <line x1="370" y1="108" x2="490" y2="108" class="frule" />
+  <circle cx="500" cy="108" r="3" class="fdot" />
+  <line x1="510" y1="108" x2="630" y2="108" class="frule" />
+
+  <!-- Single diamond (same size as palette) -->
+  <g transform="translate(500, 210)">
+    <rect
+      x="-50"
+      y="-50"
+      width="100"
+      height="100"
+      rx="10"
+      fill="url(#gSakura)"
+      transform="rotate(45)"
+      filter="url(#softShadowF)"
+    />
+  </g>
+  <text x="500" y="305" text-anchor="middle" class="fname">SAKURA PINK</text>
+  <text x="500" y="328" text-anchor="middle" class="fhex">#E890B0</text>
+</svg>
