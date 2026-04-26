@@ -1,0 +1,98 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1000 240"
+  width="1000"
+  height="240"
+  font-family="'Georgia', 'Times New Roman', serif"
+>
+  <defs>
+    <style>
+      .nname {
+        font-size: 56px;
+        font-weight: 600;
+        letter-spacing: 12px;
+        fill: #c85a80;
+      }
+      .nsub {
+        font-size: 20px;
+        font-weight: 500;
+        letter-spacing: 6px;
+        fill: #e890b0;
+      }
+      .nrule {
+        stroke: #f5c8d8;
+        stroke-width: 1;
+      }
+      .npetal {
+        fill: #e890b0;
+      }
+      .ncenter {
+        fill: #ffc8e0;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .nname {
+          fill: #ffc8e0;
+        }
+        .nsub {
+          fill: #ffb8d4;
+        }
+        .nrule {
+          stroke: #8b3a5e;
+        }
+        .npetal {
+          fill: #ffb8d4;
+        }
+        .ncenter {
+          fill: #c85a80;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Name -->
+  <text x="500" y="100" text-anchor="middle" class="nname">HAN DAMIN</text>
+
+  <!-- Divider with sakura ornament -->
+  <line x1="340" y1="140" x2="475" y2="140" class="nrule" />
+  <g transform="translate(500, 140)">
+    <ellipse cx="0" cy="-7" rx="3.5" ry="6" class="npetal" />
+    <ellipse
+      cx="0"
+      cy="-7"
+      rx="3.5"
+      ry="6"
+      transform="rotate(72)"
+      class="npetal"
+    />
+    <ellipse
+      cx="0"
+      cy="-7"
+      rx="3.5"
+      ry="6"
+      transform="rotate(144)"
+      class="npetal"
+    />
+    <ellipse
+      cx="0"
+      cy="-7"
+      rx="3.5"
+      ry="6"
+      transform="rotate(216)"
+      class="npetal"
+    />
+    <ellipse
+      cx="0"
+      cy="-7"
+      rx="3.5"
+      ry="6"
+      transform="rotate(288)"
+      class="npetal"
+    />
+    <circle cx="0" cy="0" r="2.2" class="ncenter" />
+  </g>
+  <line x1="525" y1="140" x2="660" y2="140" class="nrule" />
+
+  <!-- Korean / Chinese -->
+  <text x="500" y="195" text-anchor="middle" class="nsub">한다민 · 韓多旻</text>
+</svg>

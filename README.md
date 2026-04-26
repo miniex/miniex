@@ -1,8 +1,8 @@
-<h1 align="center">🌸 Han Damin 🌸</h1>
-
-<p align="center">
-    <b>한다민</b> &nbsp;·&nbsp; 韓多旻
-</p>
+<h1 align="center">
+    <picture>
+        <img src="./assets/name.svg" alt="Han Damin · 한다민 · 韓多旻" width="800" />
+    </picture>
+</h1>
 
 <p align="center">
     <picture>
@@ -72,9 +72,11 @@
     </picture>
 </p>
 
-<h2 align="center">🌸 Contact Me 🌸</h2>
-
-<p align="center"><i>let's stay in touch</i></p>
+<h1 align="center">
+    <picture>
+        <img src="./assets/contact-heading.svg" alt="Contact Me" width="800" />
+    </picture>
+</h1>
 
 <p align="center">
     <a href="https://miniex.blog">
