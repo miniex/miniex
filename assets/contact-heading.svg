@@ -1,0 +1,96 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1000 160"
+  width="1000"
+  height="160"
+  font-family="'Georgia', 'Times New Roman', serif"
+>
+  <defs>
+    <style>
+      .ctitle {
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: 8px;
+        fill: #c85a80;
+      }
+      .csub {
+        font-size: 13px;
+        font-style: italic;
+        letter-spacing: 2px;
+        fill: #e890b0;
+      }
+      .crule {
+        stroke: #f5c8d8;
+        stroke-width: 1;
+      }
+      .cpetal {
+        fill: #e890b0;
+      }
+      .ccenter {
+        fill: #ffc8e0;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .ctitle {
+          fill: #ffc8e0;
+        }
+        .csub {
+          fill: #ffb8d4;
+        }
+        .crule {
+          stroke: #8b3a5e;
+        }
+        .cpetal {
+          fill: #ffb8d4;
+        }
+        .ccenter {
+          fill: #c85a80;
+        }
+      }
+    </style>
+  </defs>
+
+  <text x="500" y="58" text-anchor="middle" class="ctitle">CONTACT ME</text>
+  <text x="500" y="86" text-anchor="middle" class="csub">
+    let's stay in touch
+  </text>
+
+  <line x1="370" y1="118" x2="488" y2="118" class="crule" />
+  <g transform="translate(500, 118)">
+    <ellipse cx="0" cy="-5" rx="2.5" ry="4.2" class="cpetal" />
+    <ellipse
+      cx="0"
+      cy="-5"
+      rx="2.5"
+      ry="4.2"
+      transform="rotate(72)"
+      class="cpetal"
+    />
+    <ellipse
+      cx="0"
+      cy="-5"
+      rx="2.5"
+      ry="4.2"
+      transform="rotate(144)"
+      class="cpetal"
+    />
+    <ellipse
+      cx="0"
+      cy="-5"
+      rx="2.5"
+      ry="4.2"
+      transform="rotate(216)"
+      class="cpetal"
+    />
+    <ellipse
+      cx="0"
+      cy="-5"
+      rx="2.5"
+      ry="4.2"
+      transform="rotate(288)"
+      class="cpetal"
+    />
+    <circle cx="0" cy="0" r="1.6" class="ccenter" />
+  </g>
+  <line x1="512" y1="118" x2="630" y2="118" class="crule" />
+</svg>
