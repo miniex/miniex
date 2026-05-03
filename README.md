@@ -6,7 +6,7 @@
 
 <p align="center">
     <picture>
-        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&duration=4000&pause=1500&color=E890B0&center=true&vCenter=true&width=700&height=60&lines=Until+the+day+I+render+the+entire+world+in+code...;I+am+an+artist." alt="Typing SVG" />
+        <img src="./assets/tagline.svg" alt="Until the day I render the entire world in code... I am an artist." width="800" />
     </picture>
 </p>
 
