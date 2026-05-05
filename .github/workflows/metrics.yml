@@ -18,6 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Reset stale SVG so metrics regenerates cleanly
+        run: rm -f assets/languages.svg
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -64,10 +67,17 @@ jobs:
 
       - name: Inject rounded background and clip path
         run: |
+          if [ ! -f assets/languages.svg ]; then
+            echo "ERROR: metrics did not generate assets/languages.svg"
+            exit 1
+          fi
           python3 - <<'PY'
-          import re
+          import re, sys
           path = 'assets/languages.svg'
           svg = open(path).read()
+          if 'id="rounded-clip"' in svg:
+              print('Already rounded; skipping injection.')
+              sys.exit(0)
           m = re.search(r'<svg[^>]*\swidth="(\d+)"[^>]*\sheight="(\d+)"', svg)
           w, h = m.group(1), m.group(2)
           radius = 28
