@@ -12,7 +12,7 @@
 
 <p align="center">
     <picture>
-        <img src="./assets/languages.svg" alt="Top Languages" width="800" />
+        <img src="./assets/languages.svg" alt="Top Languages" width="600" />
     </picture>
 </p>
 
