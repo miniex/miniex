@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="158" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="147" class="">
     <defs>
         <style/>
     </defs>
@@ -17,7 +17,7 @@
  --muted: #c89bb3;
  }
 }
-svg { background: var(--bg) !important; border-radius: 18px; }
+svg { background: var(--bg) !important; border-radius: 28px !important; clip-path: inset(0 round 28px) !important; overflow: hidden !important; }
 h2.field { display: none !important; }
 h3 { color: var(--title) !important; font-size: 16px !important; margin: 8px 0 4px !important; font-weight: 600 !important; }
 section.column &gt; small { color: var(--muted) !important; font-size: 10px !important; opacity: 0.75; margin-bottom: 6px; }
@@ -36,7 +36,7 @@ section.column &gt; small { color: var(--muted) !important; font-size: 10px !imp
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 33.8mb of code in 9733 edited files across 1071 commits</small>
+                <small>estimation from 33.8mb of code in 9735 edited files across 1072 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
