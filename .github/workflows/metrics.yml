@@ -24,6 +24,7 @@ jobs:
           base: ""
           template: classic
           config_timezone: Asia/Seoul
+          config_padding: "12, 12"
 
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, tex, makefile, dockerfile
@@ -50,7 +51,7 @@ jobs:
                 --muted: #c89bb3;
               }
             }
-            svg { background: var(--bg) !important; border-radius: 18px; }
+            svg { background: var(--bg) !important; border-radius: 28px !important; clip-path: inset(0 round 28px) !important; overflow: hidden !important; }
             h2.field { display: none !important; }
             h3 { color: var(--title) !important; font-size: 16px !important; margin: 8px 0 4px !important; font-weight: 600 !important; }
             section.column > small { color: var(--muted) !important; font-size: 10px !important; opacity: 0.75; margin-bottom: 6px; }
