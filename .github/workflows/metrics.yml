@@ -1,0 +1,60 @@
+name: Metrics
+
+on:
+  schedule:
+    # 06, 12, 18, 24 KST (UTC+9) -> 21, 03, 09, 15 UTC
+    - cron: "0 3,9,15,21 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  languages:
+    name: Top languages (with external contributions)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: miniex
+          filename: assets/languages.svg
+          base: ""
+          template: classic
+          config_timezone: Asia/Seoul
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, tex, makefile, dockerfile
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_colors: github
+
+          extras_css: |
+            /* light mode (default) */
+            :root {
+              --bg: #fff5f8;
+              --title: #c85a80;
+              --text: #8b3a5e;
+              --muted: #b87a93;
+            }
+            @media (prefers-color-scheme: dark) {
+              :root {
+                --bg: #1e1425;
+                --title: #ffc8e0;
+                --text: #f0d0e0;
+                --muted: #c89bb3;
+              }
+            }
+            svg { background: var(--bg) !important; border-radius: 18px; }
+            .container, .body, foreignObject body { background: var(--bg) !important; color: var(--text) !important; }
+            h2, .title, .header, text.title { color: var(--title) !important; fill: var(--title) !important; }
+            text { fill: var(--text) !important; }
+            .lang-name, .label { color: var(--text) !important; fill: var(--text) !important; }
+            .lang-bytes, .percentage, .muted { color: var(--muted) !important; fill: var(--muted) !important; }
+            .progress, .progress-bar { background: rgba(200, 90, 128, 0.12) !important; }
