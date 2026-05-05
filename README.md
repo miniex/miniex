@@ -14,16 +14,16 @@
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&card_width=420&bg_color=1e1425&title_color=ffc8e0&text_color=f0d0e0&icon_color=ffb8d4&ring_color=ffb8d4"
+            srcset="https://github-readme-stats-fast.vercel.app/api?username=miniex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&card_width=420&bg_color=1e1425&title_color=ffc8e0&text_color=f0d0e0&icon_color=ffb8d4&ring_color=ffb8d4"
         />
         <source
             media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&card_width=420&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e&icon_color=e890b0&ring_color=e890b0"
+            srcset="https://github-readme-stats-fast.vercel.app/api?username=miniex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&card_width=420&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e&icon_color=e890b0&ring_color=e890b0"
         />
         <img
             height="180"
             alt="GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=miniex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&card_width=420&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e&icon_color=e890b0&ring_color=e890b0"
+            src="https://github-readme-stats-fast.vercel.app/api?username=miniex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&card_width=420&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e&icon_color=e890b0&ring_color=e890b0"
         />
     </picture>
     <picture>
@@ -47,15 +47,15 @@
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=1e1425&title_color=ffc8e0&text_color=f0d0e0"
+            srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=1e1425&title_color=ffc8e0&text_color=f0d0e0"
         />
         <source
             media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e"
+            srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e"
         />
         <img
             alt="Top Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e"
+            src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e"
         />
     </picture>
 </p>
