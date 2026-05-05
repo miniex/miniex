@@ -12,18 +12,7 @@
 
 <p align="center">
     <picture>
-        <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=1e1425&title_color=ffc8e0&text_color=f0d0e0"
-        />
-        <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e"
-        />
-        <img
-            alt="Top Languages"
-            src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=fff5f8&title_color=c85a80&text_color=8b3a5e"
-        />
+        <img src="./assets/languages.svg" alt="Top Languages" width="400" />
     </picture>
 </p>
 
