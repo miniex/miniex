@@ -36,7 +36,6 @@ jobs:
           plugin_languages_colors: github
 
           extras_css: |
-            /* light mode (default) */
             :root {
               --bg: #fff5f8;
               --title: #c85a80;
@@ -52,9 +51,9 @@ jobs:
               }
             }
             svg { background: var(--bg) !important; border-radius: 18px; }
-            .container, .body, foreignObject body { background: var(--bg) !important; color: var(--text) !important; }
-            h2, .title, .header, text.title { color: var(--title) !important; fill: var(--title) !important; }
-            text { fill: var(--text) !important; }
-            .lang-name, .label { color: var(--text) !important; fill: var(--text) !important; }
-            .lang-bytes, .percentage, .muted { color: var(--muted) !important; fill: var(--muted) !important; }
-            .progress, .progress-bar { background: rgba(200, 90, 128, 0.12) !important; }
+            h2.field { display: none !important; }
+            h3 { color: var(--title) !important; font-size: 16px !important; margin: 8px 0 4px !important; font-weight: 600 !important; }
+            section.column > small { color: var(--muted) !important; font-size: 10px !important; opacity: 0.75; margin-bottom: 6px; }
+            .field.language.details > .field { color: var(--text) !important; font-weight: 500 !important; }
+            .field.language.details small > div:first-child { color: var(--muted) !important; }
+            .field.language.details small > div:last-child { color: var(--text) !important; font-weight: 600 !important; }
