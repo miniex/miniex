@@ -16,11 +16,14 @@ jobs:
     name: Top languages (with external contributions)
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: miniex
           filename: assets/languages.svg
+          output_action: none
           base: ""
           template: classic
           config_timezone: Asia/Seoul
@@ -51,10 +54,39 @@ jobs:
                 --muted: #c89bb3;
               }
             }
-            svg { background: var(--bg) !important; border-radius: 28px !important; clip-path: inset(0 round 28px) !important; overflow: hidden !important; }
+            .bg-rect { fill: var(--bg) !important; }
             h2.field { display: none !important; }
             h3 { color: var(--title) !important; font-size: 16px !important; margin: 8px 0 4px !important; font-weight: 600 !important; }
             section.column > small { color: var(--muted) !important; font-size: 10px !important; opacity: 0.75; margin-bottom: 6px; }
             .field.language.details > .field { color: var(--text) !important; font-weight: 500 !important; }
             .field.language.details small > div:first-child { color: var(--muted) !important; }
             .field.language.details small > div:last-child { color: var(--text) !important; font-weight: 600 !important; }
+
+      - name: Inject rounded background and clip path
+        run: |
+          python3 - <<'PY'
+          import re
+          path = 'assets/languages.svg'
+          svg = open(path).read()
+          m = re.search(r'<svg[^>]*\swidth="(\d+)"[^>]*\sheight="(\d+)"', svg)
+          w, h = m.group(1), m.group(2)
+          radius = 28
+          clip = f'<clipPath id="rounded-clip"><rect width="{w}" height="{h}" rx="{radius}" ry="{radius}"/></clipPath>'
+          bg = f'<rect class="bg-rect" width="{w}" height="{h}" rx="{radius}" ry="{radius}"/>'
+          svg = svg.replace('<style/>', f'<style/>{clip}', 1)
+          svg = svg.replace('</defs>', f'</defs>{bg}<g clip-path="url(#rounded-clip)">', 1)
+          svg = svg.replace('</svg>', '</g></svg>', 1)
+          open(path, 'w').write(svg)
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/languages.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update language stats"
+          git push
