@@ -12,7 +12,7 @@
 
 <p align="center">
     <picture>
-        <img src="./assets/stats.svg" alt="Profile Stats" width="600" />
+        <img src="./assets/stats.svg" alt="Profile Stats" width="400" />
     </picture>
 </p>
 
