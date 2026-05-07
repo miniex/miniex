@@ -12,9 +12,11 @@
 
 <p align="center">
     <picture>
-        <img src="./assets/stats.svg" alt="Profile Stats" width="400" />
+        <img src="./assets/stats.svg" alt="Profile Stats" width="500" />
     </picture>
 </p>
+
+<br />
 
 <p align="center">
     <picture>
