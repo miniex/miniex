@@ -12,6 +12,12 @@
 
 <p align="center">
     <picture>
+        <img src="./assets/stats.svg" alt="Profile Stats" width="600" />
+    </picture>
+</p>
+
+<p align="center">
+    <picture>
         <img src="./assets/languages.svg" alt="Top Languages" width="600" />
     </picture>
 </p>

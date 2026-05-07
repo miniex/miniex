@@ -12,6 +12,53 @@ permissions:
   contents: write
 
 jobs:
+  stats:
+    name: Profile header card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: miniex
+          filename: assets/stats.svg
+          committer_message: "chore: update profile stats"
+          base: header, activity, repositories
+          template: classic
+          config_timezone: Asia/Seoul
+          config_padding: "12, 12"
+
+          extras_css: |
+            :root {
+              --title: #c85a80;
+              --text: #8b3a5e;
+              --muted: #b87a93;
+            }
+            @media (prefers-color-scheme: dark) {
+              :root {
+                --title: #ffc8e0;
+                --text: #f0d0e0;
+                --muted: #c89bb3;
+              }
+            }
+            svg { background: transparent !important; }
+            /* header: keep only name + login, hide calendar/disk/quota lines */
+            .header .calendar,
+            .header .disk,
+            .header .rate-limit,
+            .header > div > div:not(:first-child) > *:not(.name):not(.login) { display: none !important; }
+            .header .name { color: var(--title) !important; font-weight: 600 !important; }
+            .header .login, .header .login a { color: var(--muted) !important; }
+            h2, h2.field, h2 a { color: var(--title) !important; font-weight: 600 !important; }
+            h2 svg { fill: var(--title) !important; }
+            .field, .field span, .field a, .field div { color: var(--text) !important; }
+            .field svg { fill: var(--muted) !important; }
+            small, small * { color: var(--muted) !important; }
+            code { background-color: rgba(200, 90, 128, 0.1) !important; color: var(--text) !important; }
+
   languages:
     name: Top languages (with external contributions)
     runs-on: ubuntu-latest
