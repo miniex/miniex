@@ -1,13 +1,13 @@
 ```yaml
 # ~/whoami.yml
-name:   Han Damin
+name: Han Damin
 aka:
   hangul: 한다민 (대한민국)
-  hanja:  韓多旻 (大韓民國)
-  kanji:  韓多旻 (日本国)
-  hanzi:  韩多旻 (中华人民共和国)
-role:   artist
-motto:  "Until the day I render the entire world in code... I am an artist."
+  hanja: 韓多旻 (大韓民國)
+  kanji: 韓多旻 (日本国)
+  hanzi: 韩多旻 (中华人民共和国)
+role: artist
+motto: "Until the day I render the entire world in code... I am an artist."
 ```
 
 <p>
