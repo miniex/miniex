@@ -104,12 +104,12 @@ e8e3df init: choose mist as base
     </a>
 </p>
 
+<blockquote>
 <sub>
-
-> 본 프로필은 현대 대한민국 사람이 16세기 조선시대로 시간 이동한 설정입니다. 당시의 표기법을 고증하여 작성하였으나, 일부 표기(倭 등)가 불편하셨다면 양해 부탁드립니다. 저는 일본을 사랑합니다. 🇯🇵
->
-> This profile is a roleplay setting in which a modern Korean has time-leaped to 16th-century Joseon. Period-accurate notation has been preserved for historical authenticity. If any of these terms feel uncomfortable, please accept my apologies — I love Japan.
->
-> 本プロフィールは現代の韓国人が16世紀の朝鮮時代へタイムリープしたという設定です。当時の表記を考証して書いていますが、一部の表記(倭など)で不快に感じられた方がいらっしゃいましたら、深くお詫び申し上げます。私は日本を愛しています。
-
+본 프로필은 현대 대한민국 사람이 16세기 조선시대로 시간 이동한 설정입니다. 당시의 표기법을 고증하여 작성하였으나, 일부 표기(倭 등)가 불편하셨다면 양해 부탁드립니다. 저는 일본을 사랑합니다. 🇯🇵
+<br /><br />
+This profile is a roleplay setting in which a modern Korean has time-leaped to 16th-century Joseon. Period-accurate notation has been preserved for historical authenticity. If any of these terms feel uncomfortable, please accept my apologies — I love Japan.
+<br /><br />
+本プロフィールは現代の韓国人が16世紀の朝鮮時代へタイムリープしたという設定です。当時の表記を考証して書いていますが、一部の表記(倭など)で不快に感じられた方がいらっしゃいましたら、深くお詫び申し上げます。私は日本を愛しています。
 </sub>
+</blockquote>
