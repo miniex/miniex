@@ -1,16 +1,16 @@
-<p align="center">
-    <picture>
-        <img src="./assets/name.svg" alt="Han Damin · 한다민 · 韓多旻" width="800" />
-    </picture>
-</p>
+```yaml
+# ~/whoami.yml
+name:   Han Damin
+aka:
+  hangul: 한다민 (대한민국)
+  hanja:  韓多旻 (大韓民國)
+  kanji:  韓多旻 (日本国)
+  hanzi:  韩多旻 (中华人民共和国)
+role:   artist
+motto:  "Until the day I render the entire world in code... I am an artist."
+```
 
-<p align="center">
-    <picture>
-        <img src="./assets/tagline.svg" alt="Until the day I render the entire world in code... I am an artist." width="800" />
-    </picture>
-</p>
-
-<p align="center">
+<p>
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
@@ -26,11 +26,6 @@
             src="https://github-readme-stats-fast.vercel.app/api?username=miniex&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&card_width=420&bg_color=00000000&title_color=c85a80&text_color=8b3a5e&icon_color=e890b0&ring_color=e890b0"
         />
     </picture>
-</p>
-
-<br />
-
-<p align="center">
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
@@ -41,40 +36,40 @@
             srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=00000000&title_color=c85a80&text_color=8b3a5e"
         />
         <img
+            height="180"
             alt="Top Languages"
             src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=18&card_width=400&bg_color=00000000&title_color=c85a80&text_color=8b3a5e"
         />
     </picture>
 </p>
 
-<p align="center">
-    <picture>
-        <img src="./assets/palette.svg" alt="Color Palette" width="800" />
-    </picture>
+```
+e890b0 (HEAD -> main, tag: favorite) paint: settled on sakura_pink
+626471 chore: ground tone with slate
+98abcc feat: pick sky_blue for accent
+a0a2b9 feat: pick dusty_lavender for accent
+e8e3df init: choose mist as base
+```
+
+<p>
+    <img src="https://img.shields.io/badge/mist-%23E8E3DF-E8E3DF?style=for-the-badge&labelColor=626471" alt="mist #E8E3DF" />
+    <img src="https://img.shields.io/badge/dusty__lavender-%23A0A2B9-A0A2B9?style=for-the-badge&labelColor=626471" alt="dusty_lavender #A0A2B9" />
+    <img src="https://img.shields.io/badge/sky__blue-%2398ABCC-98ABCC?style=for-the-badge&labelColor=626471" alt="sky_blue #98ABCC" />
+    <img src="https://img.shields.io/badge/slate-%23626471-626471?style=for-the-badge&labelColor=626471" alt="slate #626471" />
+    <br />
+    <img src="https://img.shields.io/badge/sakura__pink-%23E890B0-E890B0?style=for-the-badge&labelColor=C85A80" alt="sakura_pink #E890B0" />
 </p>
 
-<p align="center">
-    <picture>
-        <img src="./assets/favorite-color.svg" alt="Favorite Color" width="800" />
-    </picture>
-</p>
-
-<p align="center">
-    <picture>
-        <img src="./assets/contact-heading.svg" alt="Contact Me" width="800" />
-    </picture>
-</p>
-
-<p align="center">
+<p>
     <a href="https://miniex.blog">
-        <img src="https://img.shields.io/badge/Blog-miniex.blog-E890B0?style=for-the-badge&labelColor=C85A80&logo=substack&logoColor=white" alt="Blog" />
+        <img src="https://img.shields.io/badge/blog-miniex.blog-E890B0?style=for-the-badge&labelColor=C85A80&logo=substack&logoColor=white" alt="blog" />
     </a>
     &nbsp;
     <a href="https://miniex.info">
-        <img src="https://img.shields.io/badge/Portfolio-miniex.info-E890B0?style=for-the-badge&labelColor=C85A80&logo=readme&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/portfolio-miniex.info-E890B0?style=for-the-badge&labelColor=C85A80&logo=readme&logoColor=white" alt="portfolio" />
     </a>
     &nbsp;
     <a href="mailto:miniex@daminstudio.net">
-        <img src="https://img.shields.io/badge/Email-miniex@daminstudio.net-E890B0?style=for-the-badge&labelColor=C85A80&logo=maildotru&logoColor=white" alt="Email" />
+        <img src="https://img.shields.io/badge/email-miniex@daminstudio.net-E890B0?style=for-the-badge&labelColor=C85A80&logo=maildotru&logoColor=white" alt="email" />
     </a>
 </p>
