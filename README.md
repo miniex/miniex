@@ -1,29 +1,17 @@
 ```yaml
 # ~/whoami.yml
 name: Han Damin
-aka:
-  hangul: 한다민 (대한민국·조선국)
-  hanja: 韓多旻 (大韓民國·朝鮮國)
-  kanji: 韓多旻 (日本国·倭)
-  hanzi: 韩多旻 (中华人民共和国·大明國)
-出處:
-  籍貫: 朝鮮國 漢城府
-  本來: 未來世
-  狀態: 時空錯亂
+aka: {hangul: 한다민 (대한민국·조선국), hanja: 韓多旻 (大韓民國·朝鮮國), kanji: 韓多旻 (日本国·倭), hanzi: 韩多旻 (中华人民共和国·大明國)}
+出處: {籍貫: 朝鮮國 漢城府, 本來: 未來世, 狀態: 時空錯亂}
 世系:
   本貫: 穀山 韓氏
   始祖: 文敬公 韓墨 (太祖朝 開國功臣, 藝文館 大提學, 受封穀山伯, 食邑三百戶)
   派祖: 安襄公 韓畫 (世宗朝 圖畫署 提調, 賜諡 不遷位)
   屬: 安襄公派 第六世孫
-  諱: 多旻
-  字: 子畫
-  號: 默畫齋
-  行列字: 旻
-  生: 丙午
+  諱·字·號: [多旻, 子畫, 默畫齋]
+  行列字·生: [旻, 丙午]
   家訓: 萬象入畫 方稱藝者
-學派: 算木學派 (夢中所得)
-師承: 不詳
-業: 文人畫家
+學派·師承·業: [算木學派 (夢中所得), 不詳, 文人畫家]
 著作:
   - 算木機要覽 # computer primer
   - 機關語譯解 # programming language commentary
@@ -36,7 +24,7 @@ aka:
   上疏中: 請設電算廳箚子 # memorial petitioning Bureau of Computation
 motto:
   漢文: "畵盡天下 然後乃罷" # only when I have rendered the entire world shall I rest
-  上疏: "臣夢得算木之機 速於風雷 願革新我邦" # in a dream I obtained the counting-engine, swifter than thunder; let us renew our nation
+  上疏: "臣夢得算木之機 速於風雷 願革新我邦" # in a dream I obtained the counting-engine, swifter than thunder
   英文: "Until the day I render the entire world in code... I am an artist."
 ```
 
