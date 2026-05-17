@@ -1,13 +1,24 @@
 ```yaml
 # ~/whoami.yml
-name: Han Damin
+name:     Han Damin
 aka:
   hangul: 한다민 (대한민국)
-  hanja: 韓多旻 (大韓民國)
-  kanji: 韓多旻 (日本国)
-  hanzi: 韩多旻 (中华人民共和国)
-role: artist
-motto: "Until the day I render the entire world in code... I am an artist."
+  hanja:  韓多旻 (大韓民國)
+  kanji:  韓多旻 (日本国)
+  hanzi:  韩多旻 (中华人民共和国)
+世系:
+  本貫:   穀山 韓氏 (곡산 한씨)
+  始祖:   文敬公 韓墨 (太祖朝 藝文館 大提學)
+  派祖:   安襄公 韓畫 (世宗朝 圖畫署 提調, 賜諡 不遷位)
+  派:     安襄公派 (안양공파)
+  世:     第三十五世孫 (35세손)
+  行列字: 旻
+  封爵:   穀山伯 (世襲)
+  食邑:   穀山 三百戶
+  號:     默畫齋 (묵화재)
+  家訓:   萬象入畫 方稱藝者
+role:     artist
+motto:    "Until the day I render the entire world in code... I am an artist."
 ```
 
 <p>
