@@ -11,7 +11,7 @@ born: "????-03-10" # YYYY-MM-DD
 bio: kawaii jk dev
 motto: "Until the day I render the entire world in code... I am an artist."
 lang: [ko, en] # not great at en though
-tz: KST
+tz: KST # UTC +09:00
 stack: [Rust, TypeScript, C]
 focus: [systems, compilers, tooling]
 homes: [macOS, Linux]
@@ -101,5 +101,3 @@ I do not make political statements. The above is grounded in the Constitution of
     <a href="https://miniex.info"><img src="https://img.shields.io/badge/portfolio-miniex.info-E890B0?style=for-the-badge&labelColor=C85A80&logo=readme&logoColor=white" alt="portfolio" /></a>&nbsp;
     <a href="mailto:miniex@daminstudio.net"><img src="https://img.shields.io/badge/email-miniex@daminstudio.net-E890B0?style=for-the-badge&labelColor=C85A80&logo=maildotru&logoColor=white" alt="email" /></a>
 </p>
-
-<p><sub><i># EOF</i></sub></p>
