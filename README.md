@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore -->
 ```yaml
-name: Han Damin · 한다민
+name: Han Damin · 한다민 · ハン・ダミン
 aka: {KR: 韓多旻 (大韓民國), JP: 韓多旻 (日本国)}
 nationality: Korean · 한국인 · 韓國人 · 韓国人
 pronouns: call me whatever you want
