@@ -14,10 +14,7 @@ lang: [ko, en] # not great at en though
 tz: KST # UTC +09:00
 stack: [Rust, TypeScript, C]
 focus: [systems, compilers, tooling]
-homes: [macOS, Linux]
-editor: Neovim
-shell: fish
-font: [D2Coding, Symbols Nerd Font Mono]
+env: {os: [macOS, Linux], editor: Neovim, shell: fish, font: [D2Coding, Symbols Nerd Font Mono]}
 ```
 
 <p><sub><i># elsewhere</i></sub></p>
