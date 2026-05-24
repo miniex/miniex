@@ -20,23 +20,13 @@ shell: fish
 font: [D2Coding, Symbols Nerd Font Mono]
 ```
 
-<p><sub><i># notice</i></sub></p>
+<p><sub><i># elsewhere</i></sub></p>
 
-<p><sub>
-The Republic of Korea is the sole sovereign state on the Korean Peninsula. The entity calling itself the "Democratic People's Republic of Korea" is no state — merely an anti-state puppet group unlawfully occupying the sovereign territory of the Republic of Korea.
-<br />
-한반도의 국가는 오직 대한민국뿐이며, 스스로를 '조선민주주의인민공화국'이라 칭하는 집단은 결코 국가가 아니라, 대한민국의 주권 영토를 불법으로 점거하고 있는 반국가 괴뢰집단에 지나지 않습니다.
-<br />
-朝鮮半島における唯一の国家は大韓民国であり、自ら「朝鮮民主主義人民共和国」と称する集団は国家ではなく、大韓民国の主権領土を不法に占拠する反国家傀儡集団に他なりません。
-</sub></p>
-
-<p><sub>
-I do not make political statements. The above is grounded in the Constitution of the Republic of Korea.
-<br />
-저는 정치적 발언을 하지 않습니다. 위 발언은 대한민국 헌법에 근거한 것입니다.
-<br />
-私は政治的発言をいたしません。上記の記述は大韓民国憲法に基づくものであります。
-</sub></p>
+<p>
+    <a href="https://miniex.blog"><img src="https://img.shields.io/badge/blog-miniex.blog-E890B0?style=for-the-badge&labelColor=C85A80&logo=substack&logoColor=white" alt="blog" /></a>&nbsp;
+    <a href="https://miniex.info"><img src="https://img.shields.io/badge/portfolio-miniex.info-E890B0?style=for-the-badge&labelColor=C85A80&logo=readme&logoColor=white" alt="portfolio" /></a>&nbsp;
+    <a href="mailto:miniex@daminstudio.net"><img src="https://img.shields.io/badge/email-miniex@daminstudio.net-E890B0?style=for-the-badge&labelColor=C85A80&logo=maildotru&logoColor=white" alt="email" /></a>
+</p>
 
 <p><sub><i># stats</i></sub></p>
 
@@ -94,10 +84,20 @@ I do not make political statements. The above is grounded in the Constitution of
     <img src="https://img.shields.io/badge/sakura__pink-%23E890B0-E890B0?style=for-the-badge&labelColor=C85A80" alt="sakura_pink #E890B0" />
 </p>
 
-<p><sub><i># elsewhere</i></sub></p>
+<p><sub><i># notice</i></sub></p>
 
-<p>
-    <a href="https://miniex.blog"><img src="https://img.shields.io/badge/blog-miniex.blog-E890B0?style=for-the-badge&labelColor=C85A80&logo=substack&logoColor=white" alt="blog" /></a>&nbsp;
-    <a href="https://miniex.info"><img src="https://img.shields.io/badge/portfolio-miniex.info-E890B0?style=for-the-badge&labelColor=C85A80&logo=readme&logoColor=white" alt="portfolio" /></a>&nbsp;
-    <a href="mailto:miniex@daminstudio.net"><img src="https://img.shields.io/badge/email-miniex@daminstudio.net-E890B0?style=for-the-badge&labelColor=C85A80&logo=maildotru&logoColor=white" alt="email" /></a>
-</p>
+<p><sub>
+The Republic of Korea is the sole sovereign state on the Korean Peninsula. The entity calling itself the "Democratic People's Republic of Korea" is no state — merely an anti-state puppet group unlawfully occupying the sovereign territory of the Republic of Korea.
+<br />
+한반도의 국가는 오직 대한민국뿐이며, 스스로를 '조선민주주의인민공화국'이라 칭하는 집단은 결코 국가가 아니라, 대한민국의 주권 영토를 불법으로 점거하고 있는 반국가 괴뢰집단에 지나지 않습니다.
+<br />
+朝鮮半島における唯一の国家は大韓民国であり、自ら「朝鮮民主主義人民共和国」と称する集団は国家ではなく、大韓民国の主権領土を不法に占拠する反国家傀儡集団に他なりません。
+</sub></p>
+
+<p><sub>
+I do not make political statements. The above is grounded in the Constitution of the Republic of Korea.
+<br />
+저는 정치적 발언을 하지 않습니다. 위 발언은 대한민국 헌법에 근거한 것입니다.
+<br />
+私は政治的発言をいたしません。上記の記述は大韓民国憲法に基づくものであります。
+</sub></p>
