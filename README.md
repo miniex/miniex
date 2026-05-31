@@ -14,7 +14,7 @@ lang: [ko, en] # not great at en though
 tz: KST # UTC +09:00
 stack: [Rust, TypeScript, C]
 focus: [systems, compilers, tooling]
-env: {os: [macOS, Linux], editor: Neovim, shell: fish, font: [D2Coding, Symbols Nerd Font Mono]}
+env: {os: [macOS, Linux], editor: Neovim, terminal: kitty, shell: fish, font: [D2Coding, Symbols Nerd Font Mono]}
 ```
 
 <p><sub><i># elsewhere</i></sub></p>
@@ -58,12 +58,6 @@ env: {os: [macOS, Linux], editor: Neovim, shell: fish, font: [D2Coding, Symbols 
             src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miniex&layout=compact&langs_count=8&hide_border=true&border_radius=6&card_width=400&bg_color=00000000&title_color=c85a80&text_color=8b3a5e"
         />
     </picture>
-</p>
-
-<p><sub><i># trophies</i></sub></p>
-
-<p>
-    <img src="https://github-profile-trophy.vercel.app/?username=miniex&theme=apprentice&no-frame=true&no-bg=true&margin-w=15&column=8" alt="trophies" />
 </p>
 
 <p><sub><i># color palette</i></sub></p>
