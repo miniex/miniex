@@ -1,10 +1,22 @@
+<blockquote>
+<p>
+내 <ruby>一生<rp>(</rp><rt>일생</rt><rp>)</rp></ruby> <ruby>祖國<rp>(</rp><rt>조국</rt><rp>)</rp></ruby>과 <ruby>民族<rp>(</rp><rt>민족</rt><rp>)</rp></ruby>을 <ruby>爲<rp>(</rp><rt>위</rt><rp>)</rp></ruby>하여
+</p>
+<p><sub>
+<b>EN</b>&nbsp; My whole life, for the fatherland and the nation.
+<br />
+<b>JP</b>&nbsp; 我が一生を、祖国と民族のために。
+</sub></p>
+<p align="right"><i>1974. 5. 20. &nbsp;<ruby>大統領<rp>(</rp><rt>대통령</rt><rp>)</rp></ruby> <ruby>朴正熙<rp>(</rp><rt>박정희</rt><rp>)</rp></ruby><sub> · President Park Chung-hee · <ruby>朴正煕<rp>(</rp><rt>パク・チョンヒ</rt><rp>)</rp></ruby>大統領</sub></i></p>
+</blockquote>
+
 <p><sub><i># ~/whoami.yaml</i></sub></p>
 
 <!-- prettier-ignore -->
 ```yaml
-name: Han Damin · 한다민 · ハン・ダミン
+name: 한다민 · 韓多旻 · Han Damin · ハン・ダミン
 aka: {KR: 韓多旻 (大韓民國), JP: 韓多旻 (日本国)}
-nationality: Korean · 한국인 · 韓國人 · 韓国人
+nationality: 한국인 · 韓國人 · Korean · 韓国人
 pronouns: call me whatever you want
 role: developer / artist
 born: "????-03-10" # YYYY-MM-DD
@@ -78,17 +90,17 @@ env: {os: [macOS, Linux], editor: Neovim, terminal: kitty, shell: fish, font: [D
 <p><sub><i># notice</i></sub></p>
 
 <p><sub>
-The Republic of Korea is the sole sovereign state on the Korean Peninsula. The entity calling itself the "Democratic People's Republic of Korea" is no state — merely an anti-state puppet group unlawfully occupying the sovereign territory of the Republic of Korea.
-<br />
 한반도의 국가는 오직 대한민국뿐이며, 스스로를 '조선민주주의인민공화국'이라 칭하는 집단은 결코 국가가 아니라, 대한민국의 주권 영토를 불법으로 점거하고 있는 반국가 괴뢰집단에 지나지 않습니다.
+<br />
+The Republic of Korea is the sole sovereign state on the Korean Peninsula. The entity calling itself the "Democratic People's Republic of Korea" is no state — merely an anti-state puppet group unlawfully occupying the sovereign territory of the Republic of Korea.
 <br />
 朝鮮半島における唯一の国家は大韓民国であり、自ら「朝鮮民主主義人民共和国」と称する集団は国家ではなく、大韓民国の主権領土を不法に占拠する反国家傀儡集団に他なりません。
 </sub></p>
 
 <p><sub>
-I do not make political statements. The above is grounded in the Constitution of the Republic of Korea.
-<br />
 저는 정치적 발언을 하지 않습니다. 위 발언은 대한민국 헌법에 근거한 것입니다.
+<br />
+I do not make political statements. The above is grounded in the Constitution of the Republic of Korea.
 <br />
 私は政治的発言をいたしません。上記の記述は大韓民国憲法に基づくものであります。
 </sub></p>
