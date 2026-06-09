@@ -33,7 +33,7 @@ env: {os: [macOS, Linux], editor: Neovim, terminal: kitty, shell: fish, font: [D
 
 <p>
     <a href="https://miniex.blog"><img src="https://img.shields.io/badge/blog-miniex.blog-E890B0?style=for-the-badge&labelColor=C85A80&logo=substack&logoColor=white" alt="blog" /></a>&nbsp;
-    <a href="https://miniex.info"><img src="https://img.shields.io/badge/portfolio-miniex.info-E890B0?style=for-the-badge&labelColor=C85A80&logo=readme&logoColor=white" alt="portfolio" /></a>&nbsp;
+    <a href="https://miniex.work"><img src="https://img.shields.io/badge/portfolio-miniex.work-E890B0?style=for-the-badge&labelColor=C85A80&logo=readme&logoColor=white" alt="portfolio" /></a>&nbsp;
     <a href="mailto:miniex@daminstudio.net"><img src="https://img.shields.io/badge/email-miniex@daminstudio.net-E890B0?style=for-the-badge&labelColor=C85A80&logo=maildotru&logoColor=white" alt="email" /></a>
 </p>
 
