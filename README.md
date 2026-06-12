@@ -1,3 +1,4 @@
+<!--
 <blockquote>
 <p>
 내 <ruby>一生<rp>(</rp><rt>일생</rt><rp>)</rp></ruby> <ruby>祖國<rp>(</rp><rt>조국</rt><rp>)</rp></ruby>과 <ruby>民族<rp>(</rp><rt>민족</rt><rp>)</rp></ruby>을 <ruby>爲<rp>(</rp><rt>위</rt><rp>)</rp></ruby>하여
@@ -9,6 +10,7 @@
 </sub></p>
 <p align="right"><i>1974. 5. 20. &nbsp;<ruby>大統領<rp>(</rp><rt>대통령</rt><rp>)</rp></ruby> <ruby>朴正熙<rp>(</rp><rt>박정희</rt><rp>)</rp></ruby><sub> · President Park Chung-hee · <ruby>朴正煕<rp>(</rp><rt>パク・チョンヒ</rt><rp>)</rp></ruby>大統領</sub></i></p>
 </blockquote>
+-->
 
 <p><sub><i># ~/whoami.yaml</i></sub></p>
 
@@ -87,6 +89,7 @@ env: {os: [macOS, Linux], editor: Neovim, terminal: kitty, shell: fish, font: [D
     <img src="https://img.shields.io/badge/sakura__pink-%23E890B0-E890B0?style=for-the-badge&labelColor=C85A80" alt="sakura_pink #E890B0" />
 </p>
 
+<!--
 <p><sub><i># notice</i></sub></p>
 
 <p><sub>
@@ -104,3 +107,4 @@ I do not make political statements. The above is grounded in the Constitution of
 <br />
 私は政治的発言をいたしません。上記の記述は大韓民国憲法に基づくものであります。
 </sub></p>
+-->
