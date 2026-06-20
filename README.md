@@ -38,10 +38,10 @@ env: {os: [macOS, Linux], editor: Neovim, terminal: kitty, shell: fish, font: [D
 <p><sub><i># stats</i></sub></p>
 
 <p>
-    <img height="200" alt="GitHub Stats" src="https://github.com/miniex/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-    <img height="200" alt="Top Languages" src="https://github.com/miniex/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-    <img height="200" alt="GitHub Stats" src="https://github.com/miniex/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-    <img height="200" alt="Top Languages" src="https://github.com/miniex/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+    <img height="200" alt="GitHub Stats" src="https://github.com/miniex/github-stats/blob/generated/overview.svg?v=2#gh-dark-mode-only" />
+    <img height="200" alt="Top Languages" src="https://github.com/miniex/github-stats/blob/generated/languages.svg?v=2#gh-dark-mode-only" />
+    <img height="200" alt="GitHub Stats" src="https://github.com/miniex/github-stats/blob/generated/overview.svg?v=2#gh-light-mode-only" />
+    <img height="200" alt="Top Languages" src="https://github.com/miniex/github-stats/blob/generated/languages.svg?v=2#gh-light-mode-only" />
 </p>
 
 <p><sub><i># color palette</i></sub></p>
