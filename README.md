@@ -38,9 +38,9 @@ env: {os: [macOS, Linux], editor: Neovim, terminal: kitty, shell: fish, font: [D
 <p><sub><i># stats</i></sub></p>
 
 <p>
-    <img height="200" alt="GitHub Stats" src="https://raw.githubusercontent.com/miniex/github-stats/generated/overview.svg#gh-dark-mode-only" />
+    <img height="200" alt="GitHub Stats" src="https://raw.githubusercontent.com/miniex/github-stats/generated/overview.svg#gh-dark-mode-only" />&nbsp;
     <img height="200" alt="Top Languages" src="https://raw.githubusercontent.com/miniex/github-stats/generated/languages.svg#gh-dark-mode-only" />
-    <img height="200" alt="GitHub Stats" src="https://raw.githubusercontent.com/miniex/github-stats/generated/overview.svg#gh-light-mode-only" />
+    <img height="200" alt="GitHub Stats" src="https://raw.githubusercontent.com/miniex/github-stats/generated/overview.svg#gh-light-mode-only" />&nbsp;
     <img height="200" alt="Top Languages" src="https://raw.githubusercontent.com/miniex/github-stats/generated/languages.svg#gh-light-mode-only" />
 </p>
 
