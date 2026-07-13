@@ -16,7 +16,6 @@ name: 한다민 · 韓多旻 · Han Damin · ハン・ダミン
 aka: {KR: 韓多旻 (大韓民國), JP: 韓多旻 (日本国)}
 nationality: 한국인 · 韓國人 · Korean · 韓国人
 pronouns: call me whatever you want
-role: developer / artist
 born: "????-03-10" # YYYY-MM-DD
 lang: [ko, en] # not great at en though
 tz: KST # UTC +09:00
