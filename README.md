@@ -18,8 +18,6 @@ nationality: 한국인 · 韓國人 · Korean · 韓国人
 pronouns: call me whatever you want
 role: developer / artist
 born: "????-03-10" # YYYY-MM-DD
-bio: kawaii jk dev
-motto: "Until the day I render the entire world in code... I am an artist."
 lang: [ko, en] # not great at en though
 tz: KST # UTC +09:00
 stack: [Rust, TypeScript, C]
