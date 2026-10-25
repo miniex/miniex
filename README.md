@@ -12,16 +12,10 @@ JP  我が一生を、祖国と民族のために。
 
 <!-- prettier-ignore -->
 ```yaml
-name: 한다민 · 韓多旻 · Han Damin · ハン・ダミン
-aka: {KR: 韓多旻 (大韓民國), JP: 韓多旻 (日本国)}
-nationality: 한국인 · 韓國人 · Korean · 韓国人
-pronouns: call me whatever you want
-born: "????-03-10" # YYYY-MM-DD
-lang: [ko, en] # not great at en though
-tz: KST # UTC +09:00
+name: Han Damin · 韓多旻
 stack: [Rust, TypeScript, C]
 focus: [systems, compilers, tooling]
-env: {os: [macOS, Linux], editor: Neovim, terminal: kitty, shell: fish, font: [D2Coding, Symbols Nerd Font Mono]}
+env: {editor: Neovim, terminal: kitty, shell: fish}
 ```
 
 <p><sub><i># elsewhere</i></sub></p>
